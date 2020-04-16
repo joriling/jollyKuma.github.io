@@ -9,7 +9,7 @@
   "author": "Jolly Ann Dolloso",
   "license": "ISC",
   "dependencies": {
-    "bootstrap": "^4.0.0-beta",
+    "bootstrap": "^4.3.1",
     "font-awesome": "^4.7.0",
     "jquery": "^3.0.0",
     "popper.js": "^1.11.1"
